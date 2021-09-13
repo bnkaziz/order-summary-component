@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://bnkaziz.github.io/order-summary-component/)
+- Live Site URL: [https://bnkaziz.github.io/order-summary-component/](https://bnkaziz.github.io/order-summary-component/)
 
 ## My process
 
